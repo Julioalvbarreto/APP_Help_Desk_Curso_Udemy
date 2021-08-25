@@ -1,0 +1,3 @@
+-Titulo: impressora-Categoria: Impressora-Descrição: não imprime
+-Titulo: pc-Categoria: Hardware-Descrição: pc nao liga
+-Titulo: PC-Categoria: Hardware-Descrição: Fonte não liga
